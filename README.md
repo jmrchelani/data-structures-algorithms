@@ -1,2 +1,2 @@
-# data-structures-algorithms
-Data Structures and Algorithms implemented by me myself. :D
+# Data Structures and Algorithms
+Data Structures and Algorithms implemented in different languages by me myself. :D
